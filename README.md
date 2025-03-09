@@ -5,7 +5,6 @@
 
 # Language Learning
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"> 
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3?style=for-the-badge&logo=JavaScript&logoColor=white">
 
 # My work tools
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
